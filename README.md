@@ -1,2 +1,2 @@
 # Cursos
-Repositório para cursos e aulas
+Repositório para cursos e aulas!
